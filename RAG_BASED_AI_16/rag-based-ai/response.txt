@@ -1,0 +1,24 @@
+Semantic tags in HTML! Let's dive into what they're all about.
+
+In simple terms, semantic tags are a set of HTML elements that provide meaning or structure to the content on a web page. They were introduced with the release of HTML5 and aim to improve the accessibility and search engine optimization (SEO) of web pages by providing additional context about the content's meaning.
+
+Think of it like this: when you're writing an essay, you might use headings (e.g., H1, H2, H3) to organize your thoughts and help readers quickly understand the structure. Similarly, semantic tags in HTML provide a way to categorize and describe the content on a web page, making it easier for search engines like Google to understand what the page is about.
+
+These tags are not only useful for SEO purposes but also enhance the accessibility of your website by providing a clear hierarchy of information for screen readers and other assistive technologies. This means that visually impaired users can navigate and understand your content more effectively, which is essential for creating an inclusive online experience.
+
+Now, you might be wondering what kind of semantic tags are available in HTML5. Some examples include:
+
+* Article: Used to define independent articles or blog posts.
+* Section: Used to define a self-contained section of related content.
+* Header (H1-H6): Used to define headings that provide hierarchical structure.
+* Nav: Used to define navigation elements, such as menus and links.
+* Main: Used to define the main content area of a web page.
+
+These are just a few examples of the many semantic tags available in HTML5. By using these tags, you can create well-structured and accessible web pages that are easy for humans and machines to understand.
+
+**Relevant Video Information:**
+
+* [Video 11] Semantic Tags in HTML (256-257s) - Introduction to semantic tags.
+* [Video 11] Semantic Tags in HTML (40-43s) - Definition of semantic tags.
+* [Video 11] Semantic Tags in HTML (472-475s) - History of semantic tags (introduced in HTML5).
+* [Video 13] Entities, Code tag and more on HTML (491-493s) - Mention of some HTML tags, including semantic tags.
